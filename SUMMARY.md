@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 
 ## Introduction
 
-* [Thanks](untitled.md)
+* [Thanks](introduction/untitled.md)
+* [Why?](introduction/why.md)
 
 ## Swift
 
